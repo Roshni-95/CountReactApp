@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/CountReactApp/static/js/main.ee2ca1dd.chunk.js",
+    "main.js.map": "/CountReactApp/static/js/main.ee2ca1dd.chunk.js.map",
+    "runtime-main.js": "/CountReactApp/static/js/runtime-main.60f15925.js",
+    "runtime-main.js.map": "/CountReactApp/static/js/runtime-main.60f15925.js.map",
+    "static/js/2.1c7859f7.chunk.js": "/CountReactApp/static/js/2.1c7859f7.chunk.js",
+    "static/js/2.1c7859f7.chunk.js.map": "/CountReactApp/static/js/2.1c7859f7.chunk.js.map",
+    "index.html": "/CountReactApp/index.html",
+    "static/js/2.1c7859f7.chunk.js.LICENSE.txt": "/CountReactApp/static/js/2.1c7859f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60f15925.js",
+    "static/js/2.1c7859f7.chunk.js",
+    "static/js/main.ee2ca1dd.chunk.js"
+  ]
+}
